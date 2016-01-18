@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Báo Việt</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vnexpress">Vnexpress</string>
+    <string name="dantri">Dân Trí</string>
+    <string name="zing">Zing.vn</string>
+    <string name="drawer_header_newspaper">Báo Việt</string>
+    <string name="drawer_subheader_newspaper">Tin tức báo điện tử thông dụng</string>
+    <string name="loading_video">Đang tải video</string>
+    <string name="hai4h">24h.com.vn</string>
+    <string name="vietnamnet">Vietnamnet</string>
+    <string name="action_refresh">Làm mới</string>
+    <string name="progress_message">Đang tải ...</string>
+    <string name="action_restart">Khởi động lại ứng dụng</string>
+    <string name="pref_title_setting">Cài đặt</string>
+    <string name="pref_list_title_newspaper">Báo điện tử</string>
+    <string name="pref_list_summary_newspaper">Chọn báo điện tử mặc định khi mở ứng dụng</string>
+
+
+    <string name="pef_default_value_list_newspaper">http://vnexpress.net</string>
+    <string name="pref_key_setting">pref_key_setting</string>
+    <string name="pref_key_list_newspaper">pref_key_list_newspaper</string>
+    <string name="title_choose_paper">Chọn báo điện tử</string>
+    <string name="menu_webview_share">Chia sẻ</string>
+    <string name="menu_webview_exit">Quay lại</string>
+    <string name="go">Go</string>
+    <string name="section_title_list_paper">Danh sách báo</string>
+    <string name="position_of_choosed_newspaper">position of choosed newspaper</string>
+    <string name="position_default">0</string>
+    <string-array name="list_newspaper">
+        <item>Vnexpress</item>
+        <item>Dantri</item>
+        <item>Vietnamnet</item>
+        <item>Tinh Tế</item>
+        <item>Ngôi sao</item>
+    </string-array>
+    <string-array name="list_value_newspaper">
+        <item>http://vnexpress.net</item>
+        <item>http://dantri.com.vn</item>
+    </string-array>
+
+</resources>

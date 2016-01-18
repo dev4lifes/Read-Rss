@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="@string/pref_key_setting"
+        android:title="@string/pref_title_setting">
+        <ListPreference
+            android:key="@string/pref_key_list_newspaper"
+            android:title="@string/pref_list_title_newspaper"
+            android:summary="@string/pref_list_summary_newspaper"
+            android:entries="@array/list_newspaper"
+            android:defaultValue=""
+            android:entryValues="@array/list_value_newspaper"/>
+
+    </PreferenceCategory>
+</PreferenceScreen>
