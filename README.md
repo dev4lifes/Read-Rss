@@ -5,3 +5,6 @@ Project mang tính tham khảo để các bạn chưa biết có thể học h�
 Tác giả rất mong nhận được đóng góp để tác giả có thể hoàn thiện code hơn.
 
 Nếu sao chép đề nghị ghi rõ nguồn . Xin cảm ơn.
+
+# Đóng góp
+Các bạn muốn đóng góp thêm vào code thì mời các bạn tạo Fork trên github, sau đó tạo request, nếu ok mình sẽ merge vào project chính, cảm ơn.
